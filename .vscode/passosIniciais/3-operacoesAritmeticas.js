@@ -1,0 +1,3 @@
+console.log('Operações aritmeticas');
+
+console.log(2+2 * 5);
